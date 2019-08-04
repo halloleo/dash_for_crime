@@ -10,6 +10,5 @@ This repository contains resources for my talk "Dash for Crime - Using Dash by P
 `app2.py`
 :   Second example file from the live demo: Extended app with custom callback to display only the curves the user requests.
 
-
-
-
+`dash_for_crime_slides.html`
+:   The slides from the talk
